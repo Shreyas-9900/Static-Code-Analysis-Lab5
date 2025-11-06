@@ -1,0 +1,8 @@
+************* Module inventory_system
+inventory_system.py:16:0: C0301: Line too long (101/100) (line-too-long)
+inventory_system.py:45:11: W0718: Catching too general exception Exception (broad-exception-caught)
+inventory_system.py:81:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 9.60/10 (previous run: 4.80/10, +4.80)
+
